@@ -7,4 +7,4 @@ Here are a few key points about me:
 - 👩‍🎓 I am a continuous learner. I'm always leveling up my knowledge & skills, especially in data analysis, data science, & data engineering. (I ❤️ data!)
 - 💬 Connect with me on LinkedIn! I'd love to collaborate on a CS-/DS-/sustainability-related project or just chat. Find me here 👉 https://www.linkedin.com/in/jacque-chao/.
 
-Experience an issue with a project? Find a mistake? Just let me know! I will thank you. 🙂
+Experience an issue with a project? Find a mistake? Just let me know! Thanks. 🙂
